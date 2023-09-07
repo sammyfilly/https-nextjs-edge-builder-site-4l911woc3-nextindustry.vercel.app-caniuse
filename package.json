@@ -41,7 +41,7 @@
   "devDependencies": {
     "@babel/generator": "^7.22.9",
     "@babel/types": "^7.22.5",
-    "@logux/eslint-config": "^51.0.0",
+    "@logux/eslint-config": "^52.0.0",
     "@mdn/browser-compat-data": "5.3.14",
     "caniuse-db": "1.0.30001528",
     "clean-publish": "^4.2.0",
