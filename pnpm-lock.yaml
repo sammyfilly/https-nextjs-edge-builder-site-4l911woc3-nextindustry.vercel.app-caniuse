@@ -15,8 +15,8 @@ devDependencies:
     specifier: ^51.0.0
     version: 51.0.0(eslint-config-standard@17.1.0)(eslint-plugin-import@2.28.0)(eslint-plugin-n@16.0.1)(eslint-plugin-perfectionist@2.0.0)(eslint-plugin-prefer-let@3.0.1)(eslint-plugin-promise@6.1.1)(eslint@8.46.0)
   '@mdn/browser-compat-data':
-    specifier: 5.3.14
-    version: 5.3.14
+    specifier: 5.6.39
+    version: 5.6.39
   caniuse-db:
     specifier: 1.0.30001528
     version: 1.0.30001528
@@ -196,8 +196,8 @@ packages:
       eslint-plugin-promise: 6.1.1(eslint@8.46.0)
     dev: true
 
-  /@mdn/browser-compat-data@5.3.14:
-    resolution: {integrity: sha512-Y9XQrphVcE6u9xMm+gIqN86opbU/5s2W1pdPyKRyFV5B7+2jWM2gLI5JpfhZncaoDKvhy6FYwK04aCz5UM/bTQ==}
+  /@mdn/browser-compat-data@5.6.39:
+    resolution: {integrity: sha512-I1hQdh954CCzYdu45u/UzO8feeOxqSGFj8BQkQzVN7amWiIy8byg3xXPY3DjNjiMMtsxz1y+HhcKlLUTfoJ/kA==}
     dev: true
 
   /@nodelib/fs.scandir@2.1.5:
